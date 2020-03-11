@@ -15,8 +15,18 @@ The purpose for this text is to provide a guided introduction to R, designed for
 
 ## The Case for R
 
-Why R? There is steeper learning curve than other statistical software--mostly because of the lack of a point-and-click interface. Opening vanilla R for the frist time is intimidating for non-programmers. Launch R and you see a `<` with a blinking cursor next to it. And that's it. This is alleviated a bit by the popular R IDE (_integrated development environment_) from [R Studio](https://rstudio.com/products/rstudio/)
+Why R? There is steeper learning curve than other statistical software--mostly because of the lack of a point-and-click interface. Opening vanilla R for the frist time is intimidating for non-programmers. Launch R and you see a `<` with a blinking cursor next to it. And that's it. This is alleviated a bit by the popular R IDE (_integrated development environment_) from [R Studio](https://rstudio.com/products/rstudio/), which has some limited point-and-click features (for loading data, to give an example). But the lack of a point-and-click is one of the _benefits_ of R, not a drawbacks. It means that we, as researchers, must be a bit more intentional and mindful about our analyses. This is one of the reasons that R drew me in--it made me better at research, at data analysis, at statistics.
+
+Benefits:
+
+1. R is flexible--if there is a methodological innovation out there, it will be on R. 
+2. R is open--it is open-source and all code is there for you to examine (if you so desire)
+3. R encourages reproducibility--you can generate and share code across a research time
+4. R integrates the components of research--you can import and clean your data, generate vizualizations, conduct analysis, and generate shareable reports in a variety of formats. I wrote my dissertation in R!
+5. R encourages a more intentional mindset--you cannot just
 
 ## My Bona Fides
 
 ## What you will learn (or, "Learning Objectives")
+
+There are many guides out there for learning R. Two things distinguishes this book from those others. First, I focus on R as a tool for education-related research. In addition to learning the functionality of R, I will also introduce key sources of educational data that are publicly and freely available. I focus on packages and types of analysis most relevant for educational researchers. And second, I gear this toward two audiences: those learning statistical programming for the first time and those transitioning from other statistical environments--particularly Stata.
