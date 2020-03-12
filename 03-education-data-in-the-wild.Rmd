@@ -1,0 +1,18 @@
+---
+title: "Education Data in the Wild"
+author: "rpm"
+date: "3/12/2020"
+output: bookdown::gitbook
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# The landscape of education in the United States
+
+First off, allow me to apologize for American-centric prespective here. This is the context I am most familiar with, but I will do my best to extend this to an international context. Education is a global concern. But I don't want to speak out of turn about systems that I am not familiar with. Onward.
+
+Assuming that you are an education researcher, based in the U.S., you no doubt know that it is a complex world with many layers and many moving parts. It's best to think of the U.S as comprising at least 51 distinct education systems (the states + D.C.), but there is a great deal of power-sharing between local school districts and states. Some state/districts devolve a substantial power to individual schools. And the federal government plays an evolving and contested role. States/districts/schools vary widely in their capacity, which has important implications for the enterprising researcher.
+
+# Beyond the U.S.

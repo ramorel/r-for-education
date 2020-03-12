@@ -1,0 +1,35 @@
+---
+title: "index"
+author: "rpm"
+date: "3/11/2020"
+output: bookdown::gitbook
+site: bookdown::bookdown_site
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# R for Educational Research: A Guide for Humans
+
+# Preface
+
+## Outline of the book
+
+* **Chapter 1**: Into the void: R basics
+
+* **Chapter 2**: Cleanliness is good-data-practice-ness: Data cleaning and wrangling 
+
+* **Chapter 3**: Education data in the wild
+
+* **Chapter 4**: There be dragons: Find them through _data vizualization_
+
+* **Chapter 5**: Linear modeling and extensions
+
+* **Chapter 6**: Panel data, fixed effects, diff-in-diff, instrumental variables
+
+* **Chapter 7**: Reproducibility and reporting
+
+## Principles of learning
+
+## R Notebooks
